@@ -88,7 +88,7 @@ body {
 
 .active::after {
   position: absolute;
-  top: 58px;
+  top: 46px;
   display: block;
   content: "";
   width: 100%;
@@ -101,9 +101,10 @@ body {
 
 /* ============= HEADER ============= */
 .header {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   border-bottom: 1px solid #ececec;
+  height: 80px;
 }
 .header-container {
   display: flex;
